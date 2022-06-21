@@ -1,0 +1,2 @@
+# Introducao_SelfService_Business_Intelligence_no_Power_BI
+Curso de Introdução ao Self-Service Business Intelligence no Power_BI
