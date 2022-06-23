@@ -5,6 +5,6 @@ Curso de Introdução ao Self-Service Business Intelligence no Power BI na [Udem
 - [Seção 02 - ETL](https://github.com/romulovieira777/Introducao_SelfService_Business_Intelligence_no_Power_BI/tree/main/Se%C3%A7%C3%A3o_02_ETL)
 - Seção 03 - Criando o Relatório no Power BI
 - [Seção 04 - Visualizando Dados no Power BI](https://github.com/romulovieira777/Introducao_SelfService_Business_Intelligence_no_Power_BI/tree/main/Se%C3%A7%C3%A3o_04_Visualizando_Dados_no_Power_BI)
-- Seção 05 - Compartilhando Dashboard do Power BI
+- [Seção 05 - Compartilhando Dashboard do Power BI](https://github.com/romulovieira777/Introducao_SelfService_Business_Intelligence_no_Power_BI/tree/main/Se%C3%A7%C3%A3o_05_Compartilhando_Dashboard_do_Power_BI)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/introducao-ao-self-service-business-intelligence-no-power-bi/)
